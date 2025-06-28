@@ -34,8 +34,8 @@ Live Links
 
 Author
 
-Rebecca Angeth Herjok
-Software Engineering Student, KCA University  
+Rebecca Angeth Herjok.
+Software Engineering Student, KCA University.
 [GitHub Profile](https://github.com/Angeth-Herjok)
 
 
